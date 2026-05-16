@@ -15,3 +15,5 @@ MANIFEST
 cheat
 advent.info
 coverage/*
+.claude/
+.DS_Store

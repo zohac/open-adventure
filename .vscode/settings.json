@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "dungeon.h": "c",
+        "readline.h": "c"
+    },
+    "makefile.configureOnOpen": false
+}
